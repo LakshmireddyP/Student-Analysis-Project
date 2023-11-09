@@ -6,3 +6,5 @@ seaborn
 # ipykernal
 dill
 #-e .
+catboost
+xgboost
